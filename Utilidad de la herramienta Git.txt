@@ -1,0 +1,8 @@
+Buen dia Ing. la herramienta git me sirve para poder compartir
+un mismo codigo con varios integrantes de un grupo de trabajo,
+debido a que mediante un enlace se puede compartir se tiene un respaldo
+del trabajo del autor respaldado en la nube, tambien esta herramienta no permite
+me permite poseer un respaldo de varios documentos en diferentes extensiones
+ ya sean extensiones .cpp .txt .docx etc debido a todas las funcionalidades que esta 
+herramienta posee. por tanto considero que estos aspectos son los que ams me llamaron la atencion
+Gracias por su Atencion.
